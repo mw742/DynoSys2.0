@@ -42,6 +42,11 @@ Each row:
 - one individual  
 - one time point  
 
+All domains (genetic, environmental, brain, behavioral) must be aligned by:
+
+- subject ID
+- time index
+
 ---
 
 ## 🧩 Graph Construction
@@ -103,6 +108,6 @@ These metrics quantify **dynamic system behavior**.
 If you use this framework, please cite:
 
 Wei, M., & Peng, Q. (2026).
-**DynoSys 2.0: Graph-Based Modeling of Dynamic Risk States and System Transitions in Human Behavioral Development.**
+*DynoSys 2.0: Graph-Based Modeling of Dynamic Risk States and System Transitions in Human Behavioral Development.*
 
 
