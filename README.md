@@ -42,15 +42,6 @@ Each row:
 - one individual  
 - one time point  
 
-Domains:
-- Genetic (PRS)
-- Environment
-- Family
-- Physical health
-- Technology use
-- Neurocognition
-- Brain imaging
-
 ---
 
 ## 🧩 Graph Construction
@@ -105,6 +96,7 @@ We define system-level properties:
 
 These metrics quantify **dynamic system behavior**.
 
+---
 
 ## Citation
 
