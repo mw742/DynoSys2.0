@@ -109,5 +109,6 @@ If you use this framework, please cite:
 
 Wei, M., & Peng, Q. (2026).
 *DynoSys 2.0: Graph-Based Modeling of Dynamic Risk States and System Transitions in Human Behavioral Development.*
+doi: https://doi.org/10.64898/2026.05.06.723259
 
 
